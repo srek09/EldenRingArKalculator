@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldenRingArKalculator", "EldenRingArKalculator.csproj", "{D840CA53-FE2A-42B6-BD96-FF89E41020AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D840CA53-FE2A-42B6-BD96-FF89E41020AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D840CA53-FE2A-42B6-BD96-FF89E41020AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D840CA53-FE2A-42B6-BD96-FF89E41020AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D840CA53-FE2A-42B6-BD96-FF89E41020AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF54E847-276E-4D16-B3D2-238C2DC659A6}
+	EndGlobalSection
+EndGlobal
